@@ -1,0 +1,39 @@
+h1{
+	color: white;
+	background: #000000;
+	text-align: center;	
+}
+header{
+    color:white; 
+	background: #5C73F2;
+	text-align: justify;
+	font-family: arial; 
+}
+nav{
+	background: #5C73F2;
+	font-variant: small-caps;
+	font-size-adjust: 125%;
+}
+h2{
+	color:#FF530C;
+	background: black;
+	font-family: monospace;
+}
+details{
+	font-style: bold;
+	font-family: arial;
+}
+summary{
+	font-style: normal;
+}
+footer{
+	 color:white; 
+	background: #829FD9;
+	text-align: justify;
+	font-family: arial; 
+}
+section{
+	color: white;
+	background: #230A59;
+	text-align:left;
+}
